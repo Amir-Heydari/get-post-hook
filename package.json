@@ -1,0 +1,31 @@
+{
+  "name": "get-post-hook",
+  "version": "1.0.0",
+  "description": "Simplify data fetching in React with custom hooks for GET and POST requests using Axios under the hood. Easy handling of authentication, content types, and errors.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "link to repo",
+  "repository": {
+    "url": "link"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "GET",
+    "POST",
+    "Hook",
+    "Http requests",
+    "promise"
+  ],
+  "author": "Amir-Heydari",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
