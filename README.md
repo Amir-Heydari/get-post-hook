@@ -56,3 +56,5 @@ const ExampleComponent = ({ token, body }) => {
   return null;
 };
 ```
+
+If no authorization is needed in your URL you can simply skip passing authorization method and the token
