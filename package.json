@@ -5,9 +5,10 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "homepage": "link to repo",
+  "homepage": "Repository",
   "repository": {
-    "url": "link"
+    "type": "git",
+    "url": "https://github.com/Amir-Heydari/get-post-hook"
   },
   "scripts": {
     "build": "tsup"
@@ -19,7 +20,11 @@
     "Http requests",
     "promise"
   ],
-  "author": "Amir-Heydari",
+  "author": {
+    "name": "Amir Hossein Heydari Amjad",
+    "email": "aheydariamjad@gmail.com",
+    "url": "https://amir-heydari.github.io/"
+  },
   "license": "MIT",
   "devDependencies": {
     "tsup": "^8.0.1",
