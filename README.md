@@ -4,16 +4,16 @@
 
 ## Installation
 
-You can install `axios-promise-hook` via npm:
+You can install `get-post-hook` via npm:
 
 ```bash
-npm install axios-promise-hook
+npm install get-post-hook
 ```
 
 or using yarn:
 
 ```bash
-npm install axios-promise-hook
+npm install get-post-hook
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ npm install axios-promise-hook
 You can import the useGet and usePost hooks from get-post-hookk:
 
 ```javascript
-import { useGet, usePost } from "axios-promise-hook";
+import { useGet, usePost } from "get-post-hook";
 ```
 
 ### Example Usage
