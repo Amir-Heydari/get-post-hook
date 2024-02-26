@@ -1,6 +1,6 @@
 {
   "name": "get-post-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simplify data fetching in React with custom hooks for GET and POST requests using Axios under the hood. Easy handling of authentication, content types, and errors.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
